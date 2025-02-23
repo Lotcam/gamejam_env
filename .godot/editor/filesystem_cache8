@@ -1,0 +1,52 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1740270597
+icon.svg::CompressedTexture2D::8572720817864447161::1740245087::1740245091::1::::<><>::
+::res://assets/::1740270520
+Bench.glb::PackedScene::4302313758139846526::1740246271::1740246280::1::::<><>::
+Big Tree.glb::PackedScene::739887602249702986::1740246271::1740246277::1::::<><>::
+Bush.tscn::PackedScene::9054209656243816924::1740254092::0::1::::<><>::uid://edeyaw41wl15::::res://objects/env/Bush.glb
+Bush_Leaf_Texture.png::CompressedTexture2D::4075547899722467343::1740254042::1740254092::1::::<><>::
+Fountain (1)_tiny_treats_texture_1.png::CompressedTexture2D::2455754420739823641::1740252787::1740252903::1::::<><>::
+Fountain.tscn::PackedScene::6920619230318790282::1740252903::0::1::::<><>::uid://di240blfecw18::::res://objects/env/Fountain (1).glb
+Grass (1).glb::PackedScene::3410104620520399081::1740246271::1740246276::1::::<><>::uid://cae3ge431dun7::::res://assets/Grass (1)_Grass.png
+Grass (1)_Grass.png::CompressedTexture2D::4782809925163138338::1740246275::1740246282::1::::<><>::
+Grass B.tscn::PackedScene::7861103989770191299::1740248578::0::1::::<><>::
+Grass Platform.glb::PackedScene::8717751347782094509::1740246271::1740246272::1::::<><>::
+Grass.glb::PackedScene::5718340570394112779::1740246271::1740246272::1::::<><>::uid://ccke4vkdfhc2t::::res://assets/Grass_Grass.png
+Grass_Grass.png::CompressedTexture2D::4934158606778835993::1740246271::1740246282::1::::<><>::
+Park Bench.glb::PackedScene::4127777798835175490::1740246271::1740246281::1::::<><>::
+Park Bench.tscn::PackedScene::2800321687082195863::1740248696::0::1::::<><>::
+Pine.glb::PackedScene::1001673434344067133::1740246271::1740246277::1::::<><>::uid://cen8bljx3434s::::res://assets/Pine_Bark_NormalTree.png<>uid://dx7e6lsrnlxif::::res://assets/Pine_Bark_NormalTree_Normal.png<>uid://rwvl7hpd8qds::::res://assets/Pine_Leaf_Pine_C.png
+Pine_Bark_NormalTree.png::CompressedTexture2D::5082439692040003620::1740246276::1740246282::1::::<><>::
+Pine_Bark_NormalTree_Normal.png::CompressedTexture2D::8839964376819643321::1740246276::1740246282::1::::<><>::
+Pine_Leaf_Pine_C.png::CompressedTexture2D::1239923045264606736::1740246277::1740246282::1::::<><>::
+Pond.tscn::PackedScene::7743798037163233756::1740253282::0::1::::<><>::uid://b6bkcipcryxv7::::res://objects/env/Pond.glb
+Seesaw.glb::PackedScene::5653842578474305770::1740246271::1740249895::1::::<><>::
+Slide.glb::PackedScene::3135424046118969258::1740246271::1740246279::1::::<><>::uid://q8vri3r8qv65::::res://assets/Slide_Slide_BaseColor.png
+Slide_Slide_BaseColor.png::CompressedTexture2D::1192451843695450048::1740246278::1740246282::1::::<><>::
+Tree (1).glb::PackedScene::735128480573994220::1740246271::1740246274::1::::<><>::uid://bc8pqw3jqd6rd::::res://assets/Tree (1)_Bark_NormalTree.png<>uid://dmn1n6x6uwbli::::res://assets/Tree (1)_Bark_NormalTree_Normal.png<>uid://uldkvew1exop::::res://assets/Tree (1)_Leaves_NormalTree_C.png
+Tree (1)_Bark_NormalTree.png::CompressedTexture2D::2595863363645795065::1740246273::1740246282::1::::<><>::
+Tree (1)_Bark_NormalTree_Normal.png::CompressedTexture2D::8029968607861607698::1740246273::1740246282::1::::<><>::
+Tree (1)_Leaves_NormalTree_C.png::CompressedTexture2D::1426686147176732615::1740246273::1740246282::1::::<><>::
+Tree A.tscn::PackedScene::797138407802870735::1740249814::0::1::::<><>::uid://b5m2swgb8y7cj::::res://assets/Tree.glb
+Tree.glb::PackedScene::4518531193850817085::1740246271::1740246275::1::::<><>::uid://dd62w5xref7ru::::res://assets/Tree_Bark_NormalTree.png<>uid://b3wxapjnrgiri::::res://assets/Tree_Bark_NormalTree_Normal.png<>uid://hjlbjltiqsbf::::res://assets/Tree_Leaves_NormalTree_C.png
+Tree_Bark_NormalTree.png::CompressedTexture2D::7435504550648843166::1740246274::1740246282::1::::<><>::
+Tree_Bark_NormalTree_Normal.png::CompressedTexture2D::4398521909348067338::1740246274::1740246282::1::::<><>::
+Tree_Leaves_NormalTree_C.png::CompressedTexture2D::510571468544713999::1740246275::1740246282::1::::<><>::
+::res://objects/::1740246472
+::res://objects/env/::1740270530
+Bench.tscn::PackedScene::2084087293836216190::1740247552::0::1::::<><>::uid://by2r5rilphhxq::::res://assets/Park Bench.glb
+Big Tree.tscn::PackedScene::368300395220839907::1740247955::0::1::::<><>::uid://ksn3t4jg2uc5::::res://assets/Big Tree.glb
+Bush.glb::PackedScene::287234270178039726::1740254042::1740254093::1::::<><>::uid://2l2fyw1wqw7c::::res://objects/env/Bush_Leaf_Texture.png
+Bush_Leaf_Texture.png::CompressedTexture2D::1919456517053227322::1740254092::1740254093::1::::<><>::
+env.tscn::PackedScene::2554619517897892170::1740270530::0::1::::<><>::uid://hgc51waugxjb::::res://objects/env/Tree C.tscn<>uid://chxkgvenqdpg8::::res://objects/env/Seesaw.tscn<>uid://c4lyid15dv64h::::res://objects/env/Grass Platform.tscn<>uid://fin4a427dyy2::::res://objects/env/Big Tree.tscn<>uid://4xsu352m7sl7::::res://objects/env/Bench.tscn<>uid://b8wtkka6fea3::::res://objects/env/Slide.tscn<>uid://di240blfecw18::::res://objects/env/Fountain (1).glb<>uid://b6bkcipcryxv7::::res://objects/env/Pond.glb<>uid://edeyaw41wl15::::res://objects/env/Bush.glb<>uid://diwjqgghjjx4n::::res://objects/env/PINE.tscn<>uid://c4jqbr7puvuk6::::res://objects/env/Grass A.tscn<>uid://cw4x0djfajyyj::::res://objects/env/grassB.tscn
+Fountain (1).glb::PackedScene::7778316506929852189::1740252786::1740252903::1::::<><>::uid://bqbi2of1u00gk::::res://objects/env/Fountain (1)_tiny_treats_texture_1.png
+Fountain (1)_tiny_treats_texture_1.png::CompressedTexture2D::3512041256293226434::1740252903::1740252904::1::::<><>::
+Grass A.tscn::PackedScene::6827871433393648267::1740248526::0::1::::<><>::uid://bot46pfnbebgj::::res://assets/Grass (1).glb
+Grass Platform.tscn::PackedScene::6832497681464332277::1740270197::0::1::::<><>::uid://dwg7ddhnm3ai4::::res://assets/Grass Platform.glb
+grassB.tscn::PackedScene::6378304189672748737::1740252446::0::1::::<><>::uid://cnqah7gxwtga2::::res://assets/Grass.glb
+PINE.tscn::PackedScene::7766764461149637499::1740251989::0::1::::<><>::uid://ojhod41h0e1b::::res://assets/Pine.glb
+Pond.glb::PackedScene::4564950399215065750::1740252786::1740253283::1::::<><>::
+Seesaw.tscn::PackedScene::5312262955668645729::1740250972::0::1::::<><>::uid://cms07xghh6rr3::::res://assets/Seesaw.glb
+Slide.tscn::PackedScene::139683554170233412::1740249541::0::1::::<><>::uid://bkw28ggw8byk5::::res://assets/Slide.glb
+Tree C.tscn::PackedScene::503884579413055487::1740251787::0::1::::<><>::uid://kqdpuhvfjyie::::res://assets/Tree (1).glb
